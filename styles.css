@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+}
+
+button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
